@@ -1,0 +1,19 @@
+codigo,nombre,precio,stock
+G01,Coca Cola,10.00,14
+GO2,Inca Kola,15.00,12
+G03,Fanta,13.50,21
+G04,Pepsi,19.50,12
+G05,Sprite,6.90,33
+G06,Big Cola,9.50,16
+J01,Jugo de lucuma,15.00,12
+J02,Jugo de maracuya,13.00,15
+J03,Jugo de platanos,11.50,11
+J04,Jugo de papaya,15.00,09
+J05,Jugo de piña,14.00,21
+J06,Jugo de naranja,17.50,13
+E01,Red Bull,8.50,21
+E02,Monster,12.00,14
+E03,Volt,5.00,10
+E04,Score,6.50,04
+E05,Gatorade,6.00,16
+E06,Sporade,4.00,30
