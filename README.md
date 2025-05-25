@@ -33,9 +33,9 @@ Como solo tenemos dos horas de clase, el formato de la semana será:
 
 ### Proyectos de cada mes
 
-1. [Sistema de gestión de pedidos](https://github.com/Johao-dev/java-development-course/tree/main/junio/te.txt)
-2. [API REST de gestión de usuarios y productos](https://github.com/Johao-dev/java-development-course/tree/main/julio/te.txt)
-3. [Sistema de reserva de citas médicas](https://github.com/Johao-dev/java-development-course/tree/main/agosto/te.txt)
+1. [Sistema de gestión de pedidos](https://github.com/Johao-dev/java-development-course/tree/main/junio/proyecto.md)
+2. [API REST de gestión de usuarios y productos](https://github.com/Johao-dev/java-development-course/tree/main/julio/proyecto.md)
+3. [Sistema de reserva de citas médicas](https://github.com/Johao-dev/java-development-course/tree/main/agosto/proyecto.md)
 
 ---
 
