@@ -1,1 +1,0 @@
-# Proyecto del mes de Agosto

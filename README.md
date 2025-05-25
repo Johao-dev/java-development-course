@@ -35,7 +35,7 @@ Como solo tenemos dos horas de clase, el formato de la semana será:
 
 1. [Máquina expendedora](https://github.com/Johao-dev/java-development-course/tree/main/junio/proyecto_final/proyecto.md)
 2. [API REST de gestión de usuarios y productos](https://github.com/Johao-dev/java-development-course/tree/main/julio/proyecto_final/proyecto.md)
-3. [Sistema de reserva de citas médicas](https://github.com/Johao-dev/java-development-course/tree/main/agosto/proyecto.md)
+3. [Sistema de reserva de citas médicas](https://github.com/Johao-dev/java-development-course/tree/main/agosto/proyecto_final/proyecto.md)
 
 ---
 
@@ -102,4 +102,4 @@ Aprender a crear sistemas reales, con principios de diseño y arquitectura de so
 | 3 | Lunes | Introducción a pruebas y TDD | - Por qué escribir tests<br>- Qué testear y que no testear<br>- Tipos de tests<br>- Ciclo de TDD |
 | 3 | Miércoles | Mockito | - Mockito<br>- Cobertura de código |
 | 3 | Viernes | Pruebas de dominio y logica de negocio | - Tests de entidades ricas<br>- Tests de reglas de negocio<br>- TDD |
-| 4 | Lunes | Proyecto final | - [PROYECTO FINAL](https://github.com/Johao-dev/java-development-course/tree/main/agosto/te.txt) |
+| 4 | Lunes | Proyecto final | - [PROYECTO FINAL](https://github.com/Johao-dev/java-development-course/tree/main/agosto/proyecto_final/proyecto.md) |
