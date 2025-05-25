@@ -102,4 +102,4 @@ Aprender a crear sistemas reales, con principios de diseño y arquitectura de so
 | 3 | Lunes | Introducción a pruebas y TDD | - Por qué escribir tests<br>- Qué testear y que no testear<br>- Tipos de tests<br>- Ciclo de TDD |
 | 3 | Miércoles | Mockito | - Mockito<br>- Cobertura de código |
 | 3 | Viernes | Pruebas de dominio y logica de negocio | - Tests de entidades ricas<br>- Tests de reglas de negocio<br>- TDD |
-| 4 | Lunes | Proyecto final | - [PROYECTO FINAL](https://github.com/Johao-dev/java-development-course/tree/main/junio/te.txt) |
+| 4 | Lunes | Proyecto final | - [PROYECTO FINAL](https://github.com/Johao-dev/java-development-course/tree/main/agosto/te.txt) |
