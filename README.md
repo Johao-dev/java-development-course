@@ -1,7 +1,7 @@
 # Curso de Desarrollo de Software con Java
 
 Las clases se dictarán todos todos los lunes, miércoles y viernes de
-10:00 a 12:00 horas.
+15:00 a 17:00 horas.
 
 ---
 
@@ -9,10 +9,10 @@ Las clases se dictarán todos todos los lunes, miércoles y viernes de
 
 ### Formato de las clases
 
-- **10:00 a 10:10 :** Presentación de la clase
-- **10:10 a 11:00 :** Primera parte de la clase
-- **11:00 a 11:10 :** Descanso
-- **11:10 a 12:00 :** Segunda parte de la clase
+- **15:00 a 15:10 :** Presentación de la clase
+- **15:10 a 16:00 :** Primera parte de la clase
+- **16:00 a 16:10 :** Descanso
+- **16:10 a 17:00 :** Segunda parte de la clase
 
 Debido al tiempo, la idea es que se aprenda uno o dos conceptos por semana.
 
@@ -36,6 +36,12 @@ Como solo tenemos dos horas de clase, el formato de la semana será:
 1. [Máquina expendedora](https://github.com/Johao-dev/java-development-course/tree/main/junio/proyecto_final/proyecto.md)
 2. [API REST de gestión de usuarios y productos](https://github.com/Johao-dev/java-development-course/tree/main/julio/proyecto_final/proyecto.md)
 3. [Sistema de reserva de citas médicas](https://github.com/Johao-dev/java-development-course/tree/main/agosto/proyecto_final/proyecto.md)
+
+---
+
+### Filosofia de enseñanza
+
+> Enseñar no es transmitir, es provocar la curiosidad. No se trata de que te escuchen, sino de que descubran contigo.
 
 ---
 
