@@ -57,7 +57,7 @@ Con una pequeña introducción a los conceptos necesarios para introducirse a lo
 | ------ | ------ | ---- | -------- |
 | 1      | Lunes | Programación estructurada | - Que es la programación estructurada<br>- Problemas de la programación estructurada<br>- Como resolver la programación estructurada: POO |
 | 1 | Miércoles | Programación Orientada a Objetos | - 4 pilares de la POO<br>- Clases y objetos; diferencia. <br>- Modificadores de acceso<br>- uso de static y final<br>- Jearquía de clases<br>- Comportamientos similares |
-| 1 | Viernes | Mini proyecto y patrones de diseño Abstract Factory y Strategy | - Patrón de diseño Abstract Factory<br>- Patrón de diseño Strategy<br>- [Mini proyecto fabrica de muebles](https://github.com/Johao-dev/java-development-course/tree/main/junio/te.txt) |
+| 1 | Viernes | Mini proyecto y patrones de diseño Abstract Factory y Strategy | - Patrón de diseño Abstract Factory<br>- Patrón de diseño Strategy<br>- [Mini proyecto fabrica de muebles](https://github.com/Johao-dev/java-development-course/tree/main/junio/semana_01_POO/06-06-2025-Mini_Proyecto/miniproyecto1.md) |
 | 2 | Lunes | Estructuras de datos | - Qué es una estructura de datos<br>- Arrays: Ventajas y limitaciones<br>- Listas, Pilas, Colas, Conjuntos, Diccionarios<br>- Diferencias entre estructuras de datos lineales vs. no lieneales |
 | 2 | Miércoles | Framework de Colecciones en Java | - Arquitectura de Java Collection Framework<br>- Interfaces principales de la API de Java Collections<br>- Implementaciones de la API de Java Collections<br>- Operaciones comunes con colecciones<br>- La clase Object |
 | 2 | Viernes | Patrón de Diseño Iterator | - Patrón de diseño Iterator |
