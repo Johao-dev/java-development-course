@@ -1,0 +1,13 @@
+paradigma de sofware:
+
+paradigma:  modelo o una forma de pensar y estructurar el código para resolver problemas.
+
+
+programacion estructurada:
+	secuencial(linea a linea),selección(condicionales), iteradores(bucle,for,while).
+
+Problemas de la programacion estructurada:
+	mayor uso de memoria, dificil de seguir si eres nuevo, se queda muy corto para proyectos grandes, repetición de código
+
+Resolver la programación estructurada:
+	Aplicar POO, cada archivo es una cosa, y cada cosa es una clase y cada clase hace una cosa
