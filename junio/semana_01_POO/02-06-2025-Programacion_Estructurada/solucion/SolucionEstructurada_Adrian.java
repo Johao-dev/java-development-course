@@ -7,7 +7,7 @@ public class SolucionEstructurada_Adrian {
         int telefono = 0, opcion;
         String correo = "";
         int contactos_ingresados = 0;
-
+        //Haciendo cambio de ejemplo
         Scanner sc = new Scanner(System.in);
 
         do {
