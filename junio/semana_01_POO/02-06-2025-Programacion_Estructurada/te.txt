@@ -1,0 +1,15 @@
+1.-que es la programacion estructurada?,Saber utilizar las condiciones e bucles
+-----------------------
+2.-Que problemas tiene la programacion estructurada?
+
+-La programación estructurada, aunque revolucionaria para su época, presenta algunas limitaciones. Una de ellas es la pérdida de eficiencia en la ejecución y el mayor uso de memoria debido al uso de llamadas a módulos y subrutinas. La descomposición excesiva de la lógica del programa en módulos puede aumentar la sobrecarga de la interfaz, reduciendo la eficiencia
+
+3.-¿Como resolver la programacion estructurada?
+Identificar la responsabilidad que tiene
+
+_|Desventajas|_
+-Menor eficiencia.
+-Dificultad de comprension y mantenimiento.
+-No se adapta a todos los problemas.
+-Falta de reutilizacion.
+-No ideal para sistemas reales.
