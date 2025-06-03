@@ -29,7 +29,7 @@ class SolucionESTRUCTURADA_Miguel {
                     System.out.println("Ingrese su teléfono:");
                     telefono = sc.nextLine();
 
-                    contacto.add("Nombre " + nombre + "Teléfono " + telefono);
+                    contacto.add(nombre + " " + telefono);
                     System.out.println("Contacto creado:\n");
                     break;
 
@@ -37,32 +37,41 @@ class SolucionESTRUCTURADA_Miguel {
                     System.out.println("Ingrese el nombre del contacto que desea buscar:");
                     String nombreBusqueda = sc.nextLine();
 
-                    if (contacto.contains(nombreBusqueda)) {
-                        System.out.println("Contacto encontrado:\n");
-                        System.out.println(contacto);
+                    boolean encontrado = false;
+                    for (String c : contacto) {
+                        if (c.startsWith(nombreBusqueda)) {
+                            System.out.println("Contacto encontrado:\n" + c);
+                            encontrado = true;
+                        }
                     }
-                    System.out.println("No existe contacto con ese nombre");
-
+                    if (!encontrado) {
+                        System.out.println("No existe contacto con ese nombre");
+                    }
                     break;
 
                 case 3:
-
                     for (int i = 0; i < contacto.size(); i++) {
                         System.out.println(contacto.get(i));
                     }
-
                     break;
 
                 case 4:
                     System.out.println("Ingrese el nombre del contacto que desea eliminar:");
                     String nombreEliminar = sc.nextLine();
 
-                    if (contacto.contains(nombreEliminar)) {
-                        contacto.remove(nombreEliminar);
-                        System.out.println("Contacto eliminado:\n");
-                    } else {
+                    boolean eliminado = false;
+                    for (int i = 0; i < contacto.size(); i++) {
+                        if (contacto.get(i).startsWith(nombreEliminar)) {
+                            contacto.remove(i);
+                            System.out.println("Contacto eliminado:\n");
+                            eliminado = true;
+                            break;
+                        }
+                    }
+                    if (!eliminado) {
                         System.out.println("No existe contacto con ese nombre");
                     }
+                    break;
 
                 case 5:
                     System.out.println("Saliendo del programa...");
