@@ -1,0 +1,21 @@
+4 pilares de la POO:
+	1 . Abstracción : Define los comportamientos 
+		
+	2.  Encapsulamiento
+	3.  Herencia
+	4.  Polimorfismo : misma metodo, distinta forma o comportamiento
+Clases y objetos:
+	Clase: el molde
+	objeto: instancia de esa clase que se puede usar.
+
+Modificadores de accesos:
+public : Esta clase la puedo importar en caulquier lugar.
+private: no se puede acceder de ningun lugar, ni siquiera del mismo paquete, solo se puee modificar en la misma clase
+protected : Solo pueden ser modificadas por las clases que heredan de la clase base.
+default o paquete : solo se puede acceder en su mismo paquete
+
+protected - herencia - jerarquia de clases: son casi lo mismo
+
+final static = constante
+final  = ya no se puede modificar.
+static = le pertenece a la clase y no a los objetos. Y Se puede cambiar un static en la clase. un ejemplo de una clase Persona puedo crear un metodo o un static String especie = "Humano"
