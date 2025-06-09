@@ -18,4 +18,9 @@ protected - herencia - jerarquia de clases: son casi lo mismo
 
 final static = constante
 final  = ya no se puede modificar.
-static = le pertenece a la clase y no a los objetos. Y Se puede cambiar un static en la clase. un ejemplo de una clase Persona puedo crear un metodo o un static String especie = "Humano"
+	 no admitirá cambios después de su declaración y asignación de valor. final determina que un atributo no puede ser sobreescrito o redefinido. O sea: no funcionará 
+	 como una variable “tradicional”, sino como una constante. Toda constante declarada con final ha de ser inicializada en el mismo momento de declararla. 
+static = le pertenece a la clase y no a los objetos. Y Se puede cambiar un static en la clase.  todas las instancias (objetos) de la clase (ocupa un único lugar en memoria)
+
+
+ver pagina= https://www.datacamp.com/es/doc/java/static-and-final-keyword
