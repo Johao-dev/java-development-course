@@ -1,0 +1,3 @@
+Este es el contenido del archivo
+Esta es una segunda linea.
+Este es el fin del archivo.
