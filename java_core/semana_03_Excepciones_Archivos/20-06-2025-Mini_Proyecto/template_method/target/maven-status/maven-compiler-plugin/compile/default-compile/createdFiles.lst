@@ -1,0 +1,6 @@
+zuzz\test\template_method\zuzz\PdfReportExporter.class
+zuzz\test\template_method\zuzz\ExcelReportExporter.class
+zuzz\test\template_method\Template_method.class
+zuzz\test\template_method\zuzz\CsvReportExporter.class
+zuzz\test\template_method\zuzz\ReportExporter.class
+zuzz\test\template_method\zuzz\Client.class

@@ -1,0 +1,6 @@
+zuzz\test\strategypattern\Exportador.class
+zuzz\test\strategypattern\GeneradorArchivo.class
+zuzz\test\strategypattern\GeneradorArchivoExcel.class
+zuzz\test\strategypattern\GeneradorArchivoPdf.class
+zuzz\test\strategypattern\Archivo.class
+zuzz\test\strategypattern\GeneradorArchivoDocx.class
