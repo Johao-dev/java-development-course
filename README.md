@@ -1,7 +1,6 @@
 # Curso de Desarrollo de Software con Java
 
-Las clases se dictarán todos todos los lunes, miércoles y viernes de
-15:00 a 17:00 horas.
+Las clases se dictarán todos todos los sábados y domingos de 16:00 a 20:00 horas.
 
 ---
 
@@ -9,45 +8,36 @@ Las clases se dictarán todos todos los lunes, miércoles y viernes de
 
 ### Formato de las clases
 
-- **15:00 a 15:10 :** Presentación de la clase
-- **15:10 a 16:00 :** Primera parte de la clase
-- **16:00 a 16:10 :** Descanso
-- **16:10 a 17:00 :** Segunda parte de la clase
-
-Debido al tiempo, la idea es que se aprenda uno o dos conceptos por semana.
-
-Como solo tenemos dos horas de clase, el formato de la semana será:
-
-1. **Lunes:** Presentación del problema que resuelve el concepto.
-2. **Miércoles:** Presentación de la solución (el concepto en sí mismo).
-3. **Viernes:** Presentación de ejemplos reales.
+- **16:00 a 18:00 :** Primer bloque
+- **18:00 a 18:15 :** Descanso
+- **18:15 a 20:00 :** Segundo bloque
 
 ---
 
 ### Al final de cada clase
 
 - Escribir un breve resumen con sus propias palabras del concepto aprendido.
-- Subir el código al repositorio del curso.
+- Subir el código al repositorio del curso (si aplica).
 
 ---
 
 ### Proyectos de cada mes
 
-1. [Máquina expendedora](https://github.com/Johao-dev/java-development-course/tree/main/junio/proyecto_final/proyecto.md)
-2. [API REST de gestión de usuarios y productos](https://github.com/Johao-dev/java-development-course/tree/main/julio/proyecto_final/proyecto.md)
-3. [Sistema de reserva de citas médicas](https://github.com/Johao-dev/java-development-course/tree/main/agosto/proyecto_final/proyecto.md)
+1. [Máquina expendedora](https://github.com/Johao-dev/java-development-course/tree/main/java_core/proyecto_final/proyecto.md)
+2. [API REST de gestión de usuarios y productos](https://github.com/Johao-dev/java-development-course/tree/main/spring_framework/proyecto_final/proyecto.md)
+3. [Sistema de reserva de citas médicas](https://github.com/Johao-dev/java-development-course/tree/main/arquitectura_limpia/proyecto_final/proyecto.md)
 
 ---
 
 ### Filosofia de enseñanza
 
-> Enseñar no es transmitir, es provocar la curiosidad. No se trata de que te escuchen, sino de que descubran contigo.
+> *Enseñar no es transmitir, es provocar la curiosidad. No se trata de que te escuchen, sino de que descubran contigo.*
 
 ---
 
 ## Temario
 
-## Junio
+## Módulo 1: Java core
 
 #### **Objetivo:**
 Aprender conceptos de programación orientada a objetos.
@@ -57,7 +47,7 @@ Con una pequeña introducción a los conceptos necesarios para introducirse a lo
 | ------ | ------ | ---- | -------- |
 | 1      | Lunes | Programación estructurada | - Que es la programación estructurada<br>- Problemas de la programación estructurada<br>- Como resolver la programación estructurada: POO |
 | 1 | Miércoles | Programación Orientada a Objetos | - 4 pilares de la POO<br>- Clases y objetos; diferencia. <br>- Modificadores de acceso<br>- uso de static y final<br>- Jearquía de clases<br>- Comportamientos similares |
-| 1 | Viernes | Mini proyecto y patrones de diseño Abstract Factory y Strategy | - Patrón de diseño Abstract Factory<br>- Patrón de diseño Strategy<br>- [Mini proyecto fabrica de muebles](https://github.com/Johao-dev/java-development-course/tree/main/junio/semana_01_POO/06-06-2025-Mini_Proyecto/miniproyecto1.md) |
+| 1 | Viernes | Mini proyecto y patrones de diseño Abstract Factory y Strategy | - Patrón de diseño Abstract Factory<br>- Patrón de diseño Strategy<br>- [Mini proyecto fabrica de muebles](https://github.com/Johao-dev/java-development-course/tree/main/java_core/semana_01_POO/06-06-2025-Mini_Proyecto/miniproyecto1.md) |
 | 2 | Lunes | Estructuras de datos | - Qué es una estructura de datos<br>- Arrays: Ventajas y limitaciones<br>- Listas, Pilas, Colas, Conjuntos, Diccionarios<br>- Diferencias entre estructuras de datos lineales vs. no lieneales |
 | 2 | Miércoles | Framework de Colecciones en Java | - Arquitectura de Java Collection Framework<br>- Interfaces principales de la API de Java Collections<br>- Implementaciones de la API de Java Collections<br>- Operaciones comunes con colecciones<br>- La clase Object |
 | 2 | Viernes | Patrón de Diseño Iterator | - Patrón de diseño Iterator |
@@ -70,7 +60,7 @@ Con una pequeña introducción a los conceptos necesarios para introducirse a lo
 
 ---
 
-## Julio
+## Módulo 2: Spring Framework
 
 #### **Objetivo:**
 Aprender a usar Spring Boot de manera práctica para crear APIs REST en Java.
@@ -85,14 +75,14 @@ Aprender a usar Spring Boot de manera práctica para crear APIs REST en Java.
 | 2 | Viernes | Mini proyecto con base de datos | - Crear y consumir entidades relacionadas<br>- Controladores que persisten, listan y consultan<br>- Validaciones con @Valid |
 | 3 | Lunes | Spring MVC y Rest Controllers | - @RestController, @RequestMapping, @GetMapping, etc<br>- @PathVariable, @QueryParam, etc<br>- Ciclo básico de una petición REST |
 | 3 | Miércoles | Validaciones y excepciones | - @Valid, @NotNull, @Size, etc<br>- Manejo de errores con @ControllerAdvice, @ExceptionHandler, etc<br>- Buenas prácticas para estructurar una respuesta |
-| 3 | Viernes | Mini proyecto REST | - [Mini proyecto con buenas prácticas REST](https://github.com/Johao-dev/java-development-course/tree/main/julio/te.txt) |
+| 3 | Viernes | Mini proyecto REST | - [Mini proyecto con buenas prácticas REST](https://github.com/Johao-dev/java-development-course/tree/main/spring_framework/te.txt) |
 | 4 | Lunes | Fundamentos de seguridad web | - Por qué es necesario la seguridad en una API<br>- Autenticación y autorización<br>- Roles y permisos<br>Qué resueleve Spring Security |
 | 4 | Miércoles | Introducción práctica a Spring Security | - Configurar autenticación en memoria<br>- Proteger rutas con roles<br>- Seguridad con HTTP Basic<br>- Otras formas de autenticar a un usuario |
-| 4 | Viernes | Mini proyecto + repaso del mes | - [Mini proyecto: API REST protegida con roles simples](https://github.com/Johao-dev/java-development-course/tree/main/julio/te.txt) |
+| 4 | Viernes | Mini proyecto + repaso del mes | - [Mini proyecto: API REST protegida con roles simples](https://github.com/Johao-dev/java-development-course/tree/main/spring_framework/te.txt) |
 
 ---
 
-## Agosto
+## Módulo 3: Arqutictura y Arquitectura Limpia
 
 #### **Objetivo:**
 Aprender a crear sistemas reales, con principios de diseño y arquitectura de software.
@@ -108,4 +98,4 @@ Aprender a crear sistemas reales, con principios de diseño y arquitectura de so
 | 3 | Lunes | Introducción a pruebas y TDD | - Por qué escribir tests<br>- Qué testear y que no testear<br>- Tipos de tests<br>- Ciclo de TDD |
 | 3 | Miércoles | Mockito | - Mockito<br>- Cobertura de código |
 | 3 | Viernes | Pruebas de dominio y logica de negocio | - Tests de entidades ricas<br>- Tests de reglas de negocio<br>- TDD |
-| 4 | Lunes | Proyecto final | - [PROYECTO FINAL](https://github.com/Johao-dev/java-development-course/tree/main/agosto/proyecto_final/proyecto.md) |
+| 4 | Lunes | Proyecto final | - [PROYECTO FINAL](https://github.com/Johao-dev/java-development-course/tree/main/arquitectura_limpia/proyecto_final/proyecto.md) |
