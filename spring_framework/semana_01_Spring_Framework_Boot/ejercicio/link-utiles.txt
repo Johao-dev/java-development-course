@@ -1,0 +1,14 @@
+Como se utiliza la base de datos H2
+https://medium.com/eduesqui/como-utilizar-la-base-de-datos-h2-en-spring-boot-db1241d1f7f3
+
+
+Propiedades de configuración de H2
+https://medium.com/@humbleCoder007/configuring-h2-database-in-a-spring-boot-application-3c5b1ec49189
+
+
+Anotaciones de Spring Web
+https://javatechonline.com/spring-boot-mvc-rest-annotations-with-examples/#ResponseBody
+
+
+Anotaciones útiles para conocer Spring Boot
+https://www.geeksforgeeks.org/blogs/top-spring-boot-annotations/
