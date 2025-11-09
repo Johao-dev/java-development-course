@@ -1,0 +1,31 @@
+[X] ¿Qué es un ORM?
+
+Es una herramienta que mapea objetos de un lenguaje a consultas o filas de una BD.
+
+[X] ¿Qué es JPA?
+
+Es una especificación que define como se deben almacenar objetos en una BD.
+
+[X] ¿Qué implementaciones de JPA existen?
+
+Existen muchas implementaciones de JPA pero la más popular es Hibernate.
+
+[X] ¿Qué es Hibernate?
+
+Es la implementación más popular de JPA. Utiliza su propia sintaxis (HQL).
+
+[X] ¿Qué es JPQL y HQL?
+
+Tanto JPQL como HQL son lenguajes que operan con objetos de Java en lugar de tablas de
+SQL.
+
+[X] ¿Cómo se usa Spring Data JPA?
+
+Después de crear la clase anotada con @Entity se crea la interfaz de repositorio
+que puede extender de una de las interfaces que Spring Data JPA nos provee
+automáticamente (CrudRepository, ListCrudRepository, JpaRepository, etc.)
+
+Para consultas personalizadas se pueden definir de dos maneras principales:
+
+- Usando nombres de métodos derivados (a través de palabras clave.
+- Usando la anotación @Query con JPQL o HQL.
