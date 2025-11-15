@@ -1,5 +1,7 @@
 package zuzz.tests.spring_data_jpa_ejercicio.persistencia.entidades;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
@@ -32,7 +34,12 @@ public class Libro {
     @Column(name = "anio_publicacion", nullable = true)
     private Integer anioPublicacion;
 
-    @ManyToOne(targetEntity = Autor.class, fetch = FetchType.LAZY)
-    @JoinColumn(name = "autor_id", nullable = false, referencedColumnName = "autor_id")
+    @ManyToOne(targetEntity = Autor.class, fetch = FetchType.EAGER)
+    @JoinColumn(
+        name = "autor_id",
+        nullable = false,
+        referencedColumnName = "autor_id"
+    )
+    @JsonBackReference
     private Autor autor;
 }

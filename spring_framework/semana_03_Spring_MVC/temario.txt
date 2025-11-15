@@ -1,0 +1,23 @@
+TEMARIO DE SPRING WEB
+
+1. Endpoints
+  1.1. @RestController, @GetMapping, etc.
+  1.2. Parámetros de consulta (@RequestParam)
+  1.3. Variables de ruta (@PathVariable)
+  1.4. Cuerpo de consulta (@RequestBody)
+  1.5. Cuerpo de respuesta (@ResponseEntity, @ResponseBody)
+
+2. Validaciones
+  2.1 DTOs y especializaciones
+    2.1.1. RequestDTO
+    2.1.2. ResponseDTO
+    2.1.3. QueryDTO
+    2.1.4. CommandDTO
+    2.1.5. ParamDTO
+    2.1.6. EventDTO
+  2.2. Anotaciones
+    2.2.1. JSR 380 - Bean Validation (@NotNull, @Size, etc.)
+
+3. Excepciones
+  3.1. @ControllerAdvice
+  3.2. @ExceptionHandler
