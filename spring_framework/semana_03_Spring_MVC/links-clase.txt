@@ -1,0 +1,35 @@
+ENDPOINTS Y API REST
+
+https://pradeepl.com/blog/api/rest-vs-graphql-vs-grpc/
+
+https://www.arquitecturajava.com/que-es-rest/
+
+https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html
+
+
+
+VALIDACIONES
+
+https://www.google.com/search?q=spring+validation&oq=Spring+valida&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDvSAQgyMjMxajBqMagCALACAA&sourceid=chrome&ie=UTF-8
+
+https://beanvalidation.org/2.0-jsr380/spec/#introduction
+
+https://www.oscarblancarteblog.com/2018/11/30/data-transfer-object-dto-patron-diseno/
+
+https://gemini.google.com/app/85255a6238c58fca
+
+
+
+MANEJO DE EXCEPCIONES
+
+https://www.arquitecturajava.com/controlleradvice-en-spring-boot-manejo-global-de-errores/
+
+https://medium.com/@ksaquib/exception-handling-in-spring-boot-a-comprehensive-guide-2491b43a841b
+
+
+
+LINKS UTILES PLUS
+
+https://dev.to/isaactony/spring-boot-annotations-explained-15-essential-annotations-you-should-know-mhp
+
+https://github.com/omniti-labs/jsend
