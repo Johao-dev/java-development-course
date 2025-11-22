@@ -1,0 +1,40 @@
+Temario Spring Security
+
+1. Introducción
+  1.1 ¿Por qué es necesario la seguridad en una API?
+  1.2. Tipos de amenazas comunes (CSRF, XSS, MITM, etc.)
+2. Conceptos fundamentales:
+  2.1. Autenticación
+  2.2. Autorización
+    2.2.1. Roles y Permisos
+3. Mecanismos de autenticación
+  3.1. Basic Auth vs Bearer Tokens
+  3.2. Sesiones vs Tokens
+  3.3. JWT (estructura, propósito, firmas)
+  3.4. OAuth2
+  3.5. API Keys
+  3.6. HTTPS
+4. Criptografía aplicada en APIs
+  4.1. Hashing seguro
+    4.1.1. Bcrypt
+    4.1.2. PBKDF2
+    4.1.3. Argon2
+  4.2. Firmas y encriptación
+    4.2.1. HMAC (clave secreta) -> JWT HS256
+    4.2.2. RSA (clave pública/privada) -> JWT RS256
+    4.2.3. AES (encriptación asimétrica)
+5. Otros temas de seguridad
+  5.1. CORS
+  5.2. CSRF
+  5.3. Rate Limiting
+6. Spring Security
+  6.1. SecurityFilterChain
+  6.2. AuthenticationManager & AuthenticationProvider
+  6.3. PasswordEncoder
+  6.4. UserDetailsService y UserDetails
+  6.5. Authentication, Principal, SecurityContext, SecurityContextHolder
+  6.6. El archivo SecurityConfig & DSL de HttpSecurity
+  6.7. Niveles de seguridad
+    6.7.1. Basada en rutas
+    6.7.2. Basada en anotaciones / recursos
+  6.8. JWT en Spring Security
