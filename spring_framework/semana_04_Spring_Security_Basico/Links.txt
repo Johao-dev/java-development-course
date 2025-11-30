@@ -1,0 +1,69 @@
+Links:
+
+Seguridad en APIs
+https://www.cloudflare.com/es-es/learning/security/api/what-is-api-security/
+
+Tipos de amenazas comunes
+https://www.sentinelone.com/cybersecurity-101/cybersecurity/api-security-risks/
+
+OWASP Top Ten
+https://owasp.org/Top10/es/
+
+Autenticación vs. Autorización
+https://www.fortinet.com/lat/resources/cyberglossary/authentication-vs-authorization
+
+Roles vs. Permisos
+https://www.google.com/search?q=que+son+los+roles+y+permisos+en+apis
+
+Mecanismos de autenticación
+https://tyk.io/blog/api-authentication-methods/
+https://www.google.com/search?q=mecanismos+de+autenticacion+en+apis+web&oq=mecanismos+de+autenticacion+en+apis+web
+
+JWT
+https://www.jwt.io/introduction#when-to-use-json-web-tokens
+
+OAuth2
+https://auth0.com/es/intro-to-iam/what-is-oauth-2
+
+HTTPS
+https://www.google.com/search?q=que+es+y+como+funciona+https&oq=que+es+y+como+funciona+https
+
+Criptografía aplicada en APIs
+https://www.google.com/search?q=Criptograf%C3%ADa+aplicada+en+APIs
+
+CORS
+https://aws.amazon.com/es/what-is/cross-origin-resource-sharing/
+
+
+
+Spring Security
+https://medium.com/@iamssrofficial/demystifying-spring-security-and-its-architecture-25e537e4d53b
+
+SecurityFilterChain
+https://medium.com/@tanmaysaxena2904/spring-security-the-security-filter-chain-e09e1f53b73d
+
+AuthenticationManager vs. AuthenticationProvider
+https://www.google.com/search?q=que+es+AuthenticationManager+y+AuthenticationProvider+spring+security
+
+PasswordEncoder
+https://www.google.com/search?q=que+es+el+PasswordEncoder+de+spring+security
+
+UserDetailsService vs. UserDetails
+https://www.google.com/search?q=que+es+el+user+details+y+user+details+service+spring+security
+
+SecurityContextHolder vs. SecurityContext
+https://www.javacodegeeks.com/2018/02/securitycontext-securitycontextholder-spring-security.html
+https://medium.com/@CodeWithTech/understanding-securitycontext-and-securitycontextholder-in-spring-security-e8ec9c030819
+
+Authentication, Principal, Authority
+https://www.google.com/search?q=que+son+Authentication%2C+Principa%2C+Authorities+spring+security
+
+SecurityConfig y DSL HttpSecurity
+https://www.google.com/search?q=Que+es+el+archivo+SecurityConfig+y+como+es+la+DSL+de+HttpSecurity+de+Spring+Securit
+
+
+
+General
+https://careers.edicomgroup.com/blogtech/spring-security-conceptos-y-estrategias/
+
+https://medium.com/@ihor.polataiko/spring-security-guide-part-1-introduction-c2709ff1bd98
